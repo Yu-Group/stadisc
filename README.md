@@ -1,6 +1,6 @@
 # StaDISC
 
-This repo is a companion to the paper *Stable discovery of interpretable subgroups via calibration in causal studies* by Raaz Dwivedi, Yan Shuo Tan, Briton Park, Kevin Horgan, David Madigan, and Bin Yu. We reproduce the paper abstract below.
+This repo is a companion to the paper *Stable discovery of interpretable subgroups via calibration in causal studies* by Raaz Dwivedi, Yan Shuo Tan, Briton Park, Mian Wei, Kevin Horgan, David Madigan, and Bin Yu. We reproduce the paper abstract below.
 
 ---
 
