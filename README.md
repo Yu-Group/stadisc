@@ -1,4 +1,4 @@
-# staDISC
+# StaDISC
 
 This repo is a companion to the paper *Stable discovery of interpretable subgroups via calibration in causal studies* by Raaz Dwivedi, Yan Shuo Tan, Briton Park, Kevin Horgan, David Madigan, and Bin Yu. We reproduce the paper abstract below.
 
@@ -8,4 +8,4 @@ Building on Yu and Kumbier's PCS framework and for randomized experiments, we in
 
 ---
 
-In this repo, you will find Jupyter notebooks containing our statistical analysis of the dataset, including the steps we took to generate the results in the paper. Also contained are the scripts used throughout our analysis. The VIGOR data files are confidential and are excluded from the repo.
+In this repo, you will find Jupyter notebooks containing our statistical analysis of the dataset, including the steps we took to generate the results in the paper. Also contained are the scripts used throughout our analysis. The VIGOR data files are confidential and are excluded from the repo. We plan to create a separate package containing tools for applying the StaDISC methodology to othere data sets in the near future.
